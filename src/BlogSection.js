@@ -5,9 +5,7 @@ const BlogSection = () => {
         <div id="blog-section">
 
             <BlogCard />
-            <BlogCard />
-            <BlogCard />
-            <BlogCard />
+            
         
 
 

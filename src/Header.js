@@ -8,6 +8,7 @@ const Header = () => {
                 </ul>
                 <span className='explore-categories'> Explore Categories</span>
                 <i class="fa-solid fa-angle-down"></i>
+                
             </div>
 
             <div className='right-side-header'>
